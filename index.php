@@ -76,6 +76,7 @@
                 </ul>
 
             <?php
+            
                 } else {
                     echo 'error';
                 }
